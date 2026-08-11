@@ -176,9 +176,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawat4113&la
 
 # 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rawat4113&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rawat4113&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
+
+</div>
+
 
 # 🎯 Current Goals
 
