@@ -144,9 +144,13 @@ Ritesh = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rawat4113&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=rawat4113&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rawat4113&theme=tokyonight&hide_border=true" />
+<img height="180em"
+src="https://streak-stats.demolab.com/?user=rawat4113&theme=tokyonight"
+/>
 
 </div>
 
@@ -154,11 +158,11 @@ Ritesh = {
 
 <div align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawat4113&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<img width="55%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawat4113&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
 
 </div>
-
----
 
 # 📈 Contribution Graph
 
@@ -172,13 +176,9 @@ Ritesh = {
 
 # 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rawat4113&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rawat4113&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
+</p>
 
 # 🎯 Current Goals
 
