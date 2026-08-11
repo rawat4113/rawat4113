@@ -178,9 +178,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawat4113&la
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rawat4113&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=rawat4113&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+---
 
 
 # 🎯 Current Goals
