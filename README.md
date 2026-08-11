@@ -178,12 +178,21 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawat4113&la
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rawat4113&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rawat4113&theme=tokyonight" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rawat4113&theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rawat4113&theme=tokyonight&utcOffset=5.5" width="48%" />
 
 </div>
 
 ---
-
 
 # 🎯 Current Goals
 
