@@ -22,35 +22,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 ```python
-class RiteshRawat:
-
-    def __init__(self):
-        self.name = "Ritesh Rawat"
-        self.education = "B.Tech in Information Technology"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Data Science",
-            "Deep Learning",
-            "Data Analytics"
-        ]
-
-    def current_focus(self):
-        return [
-            "Building real-world AI projects",
-            "Improving Machine Learning skills",
-            "Exploring Deep Learning",
-            "Learning through experimentation"
-        ]
-
-    def goal(self):
-        return "Build intelligent solutions that solve real-world problems 🚀"
+Ritesh = {
+    "🎓 Education": "B.Tech in Information Technology",
+    "💡 Interests": ["AI", "Machine Learning", "Data Science", "Deep Learning"],
+    "🔭 Currently": "Building real-world AI/ML projects",
+    "🌱 Learning": "Machine Learning & Data Analytics",
+    "🚀 Goal": "Build intelligent solutions for real-world problems"
+}
 ```
-
----
 
 ## 🧠 What I'm Currently Exploring
 
